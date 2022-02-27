@@ -5,8 +5,8 @@
 
 url = "https://realtime.ably.io/event-stream?";
 version = "1.2"
-username = "VRDsG";  //cambia esto por las credenciales que vas hacer en Ably.com
-password = "dPUOfD"; // cambia esto por las credenciales que vas hacer en Ably.com
+username = "zALUDA.HqY5zQ";  //cambia esto por las credenciales que vas hacer en Ably.com
+password = "IK8YYCcIFx8lEYJIUn7tWAdHyZoXeCTEGcuhJcvlPJ8"; // cambia esto por las credenciales que vas hacer en Ably.com
 topic_raiz = "ok";   // este lo puedes cambiar despues, pero si lo cambias lo modificas tambien el el programa de arduino
 topic_conexion = "/conexion";
 topic_datos_lamparas = "/datos_lamparas";  // este lo puedes cambiar despues, pero si lo cambias lo modificas tambien el el programa de arduino
